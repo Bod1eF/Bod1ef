@@ -1,6 +1,6 @@
 ## Hi there, I'm Bodie 🧊
 
-🎓 CS Student @ Northwestern University 
+🎓 CS Student @ Northwestern University   
 💻 Full-Stack Developer  
 🔬 Researching Deep Learning & Spiking Neural Networks  
 
